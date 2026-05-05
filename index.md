@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# scottbot dossier
+# this is my dossier
 
 just a dossier
