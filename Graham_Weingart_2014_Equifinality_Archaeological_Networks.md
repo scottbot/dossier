@@ -56,6 +56,8 @@ extraction_notes: |
   rights-and-permissions, "About this article", footer navigation, etc.)
   was excluded.
 ---
+*Note: The conversion of this scholarly article to a website (via markdown) was assisted with an LLM. Errors likely exist. To correct errors or to issue a copyright takedown request, please reach out to weingart.scott+dossier@gmail.com*
+
 
 # The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach
 
