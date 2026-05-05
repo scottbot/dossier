@@ -1,0 +1,11 @@
+title: "scottbot dossier"
+description: "a dossier for scottbot"
+
+# Tell GitHub Pages to use the default Jekyll theme
+theme: minima
+
+# Your GitHub Pages root domain
+url: "https://scottbot.github.io"
+
+# The subpath (MUST match your repo name exactly, starting with a slash)
+baseurl: "/dossier"
