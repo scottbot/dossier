@@ -243,7 +243,7 @@ Nine different combinations of variables (Table [2](https://link-springer-com.da
 | Combination 8  | High                           | Middle                          |
 | Combination 9  | High                           | High                            |
 
-![Figure 1. Netlogo screenshot, setting the parameters for sweeping.](images/SBW-023-fig-001.png)
+![Figure 1. Netlogo screenshot, setting the parameters for sweeping.](images/SBW-023-fig-001.jpg)
 
 **Fig. 1.** Netlogo screenshot, setting the parameters for sweeping
 
@@ -254,7 +254,7 @@ We should expect some basic trends to emerge. We could expect that:
 
 This is in fact what we see (Fig. [2](https://link-springer-com.dartmouth.idm.oclc.org/article/10.1007/s10816-014-9230-y#Fig2)). A world where fifty generations are reached quickly might be characterised as unstable, while one that takes some time could be called stable. Combinations 3, 6 and 9 lead to the greatest peaks in stability. If one were to map these against the economic development of the Roman world, one could argue that combinations 9 and 6 would agree with a situation or area where many transport or communications links have still to be developed, though the general lay of the land is well known. Combination 3 would agree with a situation where the transportation or communications networks were at the most developed and secure. Either way, these combinations point to a degree of integration (and the differing circumstances under which integration could be produced, in the simulation).
 
-![Figure 2. The amount of time (number of model cycles) to reach a global mean of 50 generations, by combination of metabolism and vision against resource.](images/SBW-023-fig-002.png)
+![Figure 2. The amount of time (number of model cycles) to reach a global mean of 50 generations, by combination of metabolism and vision against resource.](images/SBW-023-fig-002.jpg)
 
 **Fig. 2.** The amount of time (number of model cycles) to reach a global mean of 50 generations, by combination of metabolism and vision against resource
 
