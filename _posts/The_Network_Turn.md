@@ -76,7 +76,7 @@ extraction_notes: |
   online by Cambridge University Press" repeated on every page - which
   appears in pdftotext but is correctly excluded from the markdown.)
 ---
-
+*Note: The conversion of this scholarly book to a website (via markdown) was assisted with an LLM. Errors likely exist. To correct errors or to issue a copyright takedown request, please reach out to weingart.scott+dossier@gmail.com or create a pull request.*
 <!-- page 1 -->
 
 # The Network Turn
