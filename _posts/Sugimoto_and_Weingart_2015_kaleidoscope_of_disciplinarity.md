@@ -52,6 +52,8 @@ extraction_notes: |
   blocks; one quoted passage in the body that was originally indented (Krishnan, 2009) is
   rendered as a Markdown blockquote.
 ---
+*Note: The conversion of this scholarly article to a website (via markdown) was assisted with an LLM. Errors likely exist. To correct errors or to issue a copyright takedown request, please reach out to weingart.scott+dossier@gmail.com or create a pull request.*
+
 
 # The kaleidoscope of disciplinarity
 
