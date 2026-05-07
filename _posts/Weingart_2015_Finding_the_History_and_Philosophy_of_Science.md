@@ -63,6 +63,8 @@ extraction_notes: |
   syntax. Bibliography preserved verbatim. Page anchors inserted as HTML
   comments preserve the printed page grid (201-213).
 ---
+*Note: The conversion of this scholarly article to a website (via markdown) was assisted with an LLM. Errors likely exist. To correct errors or to issue a copyright takedown request, please reach out to weingart.scott+dossier@gmail.com or create a pull request.*
+
 
 # Finding the History and Philosophy of Science
 
