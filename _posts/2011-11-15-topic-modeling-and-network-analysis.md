@@ -26,6 +26,8 @@ extraction_notes: |
   Footnotes converted from the WordPress 'Simple Footnotes' plugin (<a class='simple-footnote'><sup>N</sup></a> + <div class='simple-footnotes'>) to Markdown footnote syntax.
   Reader comments preserved (5 of 5).
 ---
+*Note: The conversion of this scholarly blog post to a website (via markdown) was assisted with an LLM. Errors likely exist. To correct errors or to issue a copyright takedown request, please reach out to weingart.scott+dossier@gmail.com or create a pull request.*
+
 # Topic Modeling and Network Analysis
 
 According
