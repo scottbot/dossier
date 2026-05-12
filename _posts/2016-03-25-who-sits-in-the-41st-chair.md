@@ -471,7 +471,7 @@ Oh, and new shells keep getting tacked on as more players can afford
 the cost of admission to the yellow zone, though the green core remains
 the same size.
 
-Bizarrely, this is far from the first game of this nature. A Spanish boardgame from 1587 called the *[Courtly Philosophy](https://fleurtyherald.files.wordpress.com/2013/07/filosofia-cortesana-class-apa.jpg)*had
+Bizarrely, this is far from the first game of this nature. A Spanish boardgame from 1587 called the *[Courtly Philosophy](https://fleurtyherald.files.wordpress.com/2013/07/filosofia-cortesana-class-apa.jpg)* had
 players move figures around a board, inching closer
 to living a luxurious life in the shadow of a rich
 patron. Random chance ruled their progression—a role of the
